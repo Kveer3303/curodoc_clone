@@ -1,0 +1,64 @@
+body {
+    background-size: cover;
+}
+.py-1{
+    display: flex;
+    justify-content: space-between;
+}
+.shadow-sm{
+    justify-content: space-between;
+}
+.bg-cover{
+    background-position: 50%;
+}
+.bg-cover, .bg-landing{
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.shadow-sm{
+    display: flex;
+    justify-content: space-between;
+}
+#navbar-main{
+    justify-content: end;
+}
+.bg-black-50{
+    background-color: rgba(29, 30, 9, 0.131);
+    
+}
+.btn-toolbar{
+    justify-content: center;
+    gap: 40px;
+}
+.btn-secondary{
+    background-color: rgb(236, 169, 44);
+}
+.bg-cover > .container{
+    margin-left: 0%;
+}
+.text-primary{
+    font-size: larger;
+}
+.text-secondary{
+    text-decoration: none;
+    color: rgb(0, 153, 255)!important;
+}
+.card-cover{
+ 
+    background-size: cover;
+    color: black;
+}
+.card-cover .shadow-lg{
+    background-size: cover;
+}
+.bg-black-50 > .text-uppercase{
+    color: rgb(86, 98, 98)!important;
+}
+.bg-black-50 >  .lead{
+    color: rgb(86, 98, 98)!important;
+    font-weight: 400;
+}
+.bg-black-50 >  .lead > .text-white{
+    color: rgb(17, 206, 212)!important;
+    font-weight: 400;
+}
